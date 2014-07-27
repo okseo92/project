@@ -1,0 +1,35 @@
+h1{
+	color: rgb(78, 153, 160);
+	border-bottom: 1px solid black; 
+}
+
+p.green{
+	color: green;
+}
+
+p.blue{
+	color: blue;
+}
+
+p.ras{
+	color: royalblue;
+}
+
+p.cran{
+	color: crimson;
+}
+
+em{
+	color: rgba(75, 101, 207, 0.74);
+}
+
+h2{
+	color: rgb(70, 226, 195);
+	border-bottom: 1px solid green;
+	font-family: sans-serif;
+}
+
+h2#green-tea-tittle{
+	background-color: green;	
+}
+
